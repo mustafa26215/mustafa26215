@@ -22,5 +22,5 @@ Learning from multiple resources while building a strong foundation to be ready 
 ---
 
 ## Contact
-📧 [mustafagalal26215@gmail.com](mailto:mustafagalal26215@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/mustafa26215/)
+ [mustafagalal26215@gmail.com](mailto:mustafagalal26215@gmail.com)  
+ [LinkedIn](https://www.linkedin.com/in/mustafa26215/)
