@@ -1,4 +1,4 @@
-# Mustafa Galal
+# About me
 
 Recent MIS graduate focused on building a career in Software Development.  
 Currently learning programming fundamentals and software engineering following **Mohammed Abu-Hadhoud roadmap**.  
